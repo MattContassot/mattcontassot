@@ -1,18 +1,11 @@
-### Hi there 👋
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmattcontassot%2Fhit-counter&count_bg=%23272D2D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<!--
-**MattContassot/mattcontassot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=mattcontassot&show_icons=true&theme=apprentice&count_private=true"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=mattcontassot&date_format=j%20M%5B%20Y%5D&background=262626&currStreakNum=FEFEFE&sideNums=FEFEFE&border=FEFEFE&currStreakLabel=E4E2A4&sideLabels=DCDCDC&dates=515151&fire=E4E2A4&ring=E4E2A4"/>
+  </span>
+  <br>
+  <br>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmattcontassot%2Fhit-counter&count_bg=%23272D2D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/>
+  </a>
+</div>
