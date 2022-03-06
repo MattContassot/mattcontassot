@@ -1,10 +1,10 @@
 <div align="center">
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mattcontassot&show_icons=true&theme=apprentice&count_private=true"/>
+      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mattcontassot&show_icons=true&theme=apprentice&count_private=true"/>
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=mattcontassot&date_format=j%20M%5B%20Y%5D&background=262626&currStreakNum=FEFEFE&sideNums=FEFEFE&border=FEFEFE&currStreakLabel=E4E2A4&sideLabels=DCDCDC&dates=515151&fire=E4E2A4&ring=E4E2A4"/>
+      <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=mattcontassot&date_format=j%20M%5B%20Y%5D&background=262626&currStreakNum=FEFEFE&sideNums=FEFEFE&border=FEFEFE&currStreakLabel=E4E2A4&sideLabels=DCDCDC&dates=515151&fire=E4E2A4&ring=E4E2A4"/>
     </a>
   </span>
   <br>
