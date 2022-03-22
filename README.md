@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats" targe="_blank">
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
       <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mattcontassot&show_icons=true&theme=apprentice&count_private=true"/>
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
